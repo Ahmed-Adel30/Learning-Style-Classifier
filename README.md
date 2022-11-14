@@ -8,7 +8,7 @@ There are 2 problems we’re going to solve in this project
 To begin executing on the project, we will break it down into small chunks (challenges), and explain each one in details.
 
 Steps
- -	Generating data (dataset)
+ -	Load needed data (dataset)
  -	Data preprocessing
  -	Building the model (classification algorithm)
  -	Model evaluation
